@@ -1,6 +1,6 @@
 # Visioner-Models
 
-Distance model: TF object detection model. I removed all the classes except a Car and a Pearson. Implemented the triangular similarity algorithm for distance estimation. Used for acceleration/deceleration depending on the distance.
+Distance model: TF object detection model. I removed all the classes except a Car and a Person. Implemented the triangular similarity algorithm for distance estimation. Used for acceleration/deceleration depending on the distance.
 
 Distance estimation:
 ![alt text](https://github.com/mrprimle/Visioner-Models/blob/master/images/distance.jpg?raw=true)
