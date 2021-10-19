@@ -22,5 +22,6 @@ Each model is on-device and real-time.
 
 
 You can see a brief demo of both models working together from the phone here: https://youtu.be/DrH7Hw01WIo ("Offset" represents the direction to turn)
+Project web site: https://mrprimle.github.io/vision
 
 
